@@ -1,4 +1,4 @@
-<img width="816" height="263" alt="image" src="https://github.com/user-attachments/assets/19de56ea-5d5d-4989-978b-a31219f2b15b" /># Built-in Functions -Binary Conversion Using Built-in Functions in Python
+# Built-in Functions -Binary Conversion Using Built-in Functions in Python
 
 ## 🎯 Aim
 To write a Python program to convert the number **16** into its **binary representation** using built-in Python functions.
